@@ -15,11 +15,6 @@ The Potential of Collaborative Technologies to Influence Governance
   - [Translating](#translating)
   - [License and contributor license agreement](#license-and-contributor-license-agreement)
   - [Editing locally (requires access permission)](#editing-locally-requires-access-permission)
-- [Getting started](#getting-started)
-- [Downloads](#downloads)
-- [Status / Releases / Development timeline / Roadmap](#status--releases--development-timeline--roadmap)
-- [Don't get lost](#dont-get-lost)
-- [A proposal to move the content in this wiki to a Wikipedia-style wiki site](#a-proposal-to-move-the-content-in-this-wiki-to-a-wikipedia-style-wiki-site)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
