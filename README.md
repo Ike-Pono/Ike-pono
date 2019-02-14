@@ -1,5 +1,4 @@
-# Ike-pono
-The Potential of Collaborative Technologies to Influence Governance
+# Open World Movement
 
 Content for this site is hosted soley on the repository's wiki page https://github.com/Ike-Pono/Open-World-Movement/wiki
 For information about using this site please see information below.
