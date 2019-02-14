@@ -1,6 +1,6 @@
 # Ike-pono
 The Potential of Collaborative Technologies to Influence Governance
-Content for this site is hosted soley on the repository's wiki page. 
+Content for this site is hosted soley on the repository's wiki page https://github.com/Ike-Pono/Open-World-Movement/wiki
 
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
